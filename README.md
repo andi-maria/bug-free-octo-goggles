@@ -1,2 +1,2 @@
 # bug-free-octo-goggles
-Praactice Repo for PU5550 
+Practice Repo for PU5550 
